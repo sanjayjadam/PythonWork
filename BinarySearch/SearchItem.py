@@ -1,0 +1,1 @@
+# code to find an item in binary array
